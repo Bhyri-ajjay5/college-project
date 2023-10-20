@@ -1,0 +1,157 @@
+[
+    {
+      "id": 1,
+      "name": "B.Sc",
+      "title": "Data Science",
+      "img": "https://plus.unsplash.com/premium_photo-1661270415926-37a9d24aff30?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "desc": "A Bachelor of Science (BSc) in Computer Science is an undergraduate degree program that focuses on the study of computer systems, software development algorithms, and various aspects of computing technology. Here's a detailed description of the BSc in Computer Science program."
+    },
+    {
+      "id": 2,
+      "name": "B.Sc",
+      "title": "Mathematics",
+      "img": "https://images.unsplash.com/photo-1635372722656-389f87a941b7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1931&q=80",
+      "desc": "A Bachelor of Science (BSc) in Computer Science is an undergraduate degree program that focuses on the study of computer systems, software development algorithms, and various aspects of computing technology. Here's a detailed description of the BSc in Computer Science program."
+    },
+    {
+      "id": 3,
+      "name": "B.Sc",
+      "title": "Physics",
+      "img": "https://images.unsplash.com/photo-1531956656798-56686eeef3d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2054&q=80",
+      "desc": "A Bachelor of Science (BSc) in Computer Science is an undergraduate degree program that focuses on the study of computer systems, software development algorithms, and various aspects of computing technology. Here's a detailed description of the BSc in Computer Science program."
+    },
+    {
+      "id": 4,
+      "name": "B.Sc",
+      "title": "Chemistry",
+      "img": "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80",
+      "desc": "A Bachelor of Science (BSc) in Computer Science is an undergraduate degree program that focuses on the study of computer systems, software development algorithms, and various aspects of computing technology. Here's a detailed description of the BSc in Computer Science program."
+    },
+    {
+      "id": 5,
+      "name": "B.Sc",
+      "title": "Computer Science",
+      "img": "https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80",
+      "desc": "A Bachelor of Science (BSc) in Computer Science is an undergraduate degree program that focuses on the study of computer systems, software development algorithms, and various aspects of computing technology. Here's a detailed description of the BSc in Computer Science program."
+    },
+    {
+      "id": 6,
+      "name": "B.Sc",
+      "title": "Artificial Intelligence & Robotics",
+      "img": "https://images.unsplash.com/photo-1526378722484-bd91ca387e72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1934&q=80",
+      "desc": "A Bachelor of Science (BSc) in Computer Science is an undergraduate degree program that focuses on the study of computer systems, software development algorithms, and various aspects of computing technology. Here's a detailed description of the BSc in Computer Science program."
+    },
+    {
+      "id": 7,
+      "name": "BBA",
+      "title": "General",
+      "img": "https://images.unsplash.com/photo-1432821596592-e2c18b78144f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "desc": "A Bachelor of Science (BSc) in Computer Science is an undergraduate degree program that focuses on the study of computer systems, software development algorithms, and various aspects of computing technology. Here's a detailed description of the BSc in Computer Science program."
+    },
+    {
+      "id": 8,
+      "name": "BBA",
+      "title": " Digital Marketing",
+      "img": "https://images.unsplash.com/photo-1557838923-2985c318be48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1931&q=80",
+      "desc": "A Bachelor of Science (BSc) in Computer Science is an undergraduate degree program that focuses on the study of computer systems, software development algorithms, and various aspects of computing technology. Here's a detailed description of the BSc in Computer Science program."
+    },
+    {
+      "id": 9,
+      "name": "B.Com",
+      "title": "Computer Applications",
+      "img": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "desc": "A Bachelor of Science (BSc) in Computer Science is an undergraduate degree program that focuses on the study of computer systems, software development algorithms, and various aspects of computing technology. Here's a detailed description of the BSc in Computer Science program."
+    },
+    {
+      "id": 10,
+      "name": "BCA",
+      "title": "Bachlor of Computer Applications",
+      "img": "https://plus.unsplash.com/premium_photo-1681487787308-52f293cd3bce?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "desc": "A Bachelor of Science (BSc) in Computer Science is an undergraduate degree program that focuses on the study of computer systems, software development algorithms, and various aspects of computing technology. Here's a detailed description of the BSc in Computer Science program."
+    },
+    {
+      "id": 11,
+      "name": "B.Sc",
+      "title": "Subject 11 Title",
+      "img": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1976&q=80",
+      "desc": "A Bachelor of Science (BSc) in Computer Science is an undergraduate degree program that focuses on the study of computer systems, software development algorithms, and various aspects of computing technology. Here's a detailed description of the BSc in Computer Science program."
+    },
+    {
+      "id": 12,
+      "name": "B.Sc",
+      "title": "Subject 12 Title",
+      "img": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1976&q=80",
+      "desc": "A Bachelor of Science (BSc) in Computer Science is an undergraduate degree program that focuses on the study of computer systems, software development algorithms, and various aspects of computing technology. Here's a detailed description of the BSc in Computer Science program."
+    },
+    {
+      "id": 13,
+      "name": "B.Sc",
+      "title": "Subject 13 Title",
+      "img": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1976&q=80",
+      "desc": "A Bachelor of Science (BSc) in Computer Science is an undergraduate degree program that focuses on the study of computer systems, software development algorithms, and various aspects of computing technology. Here's a detailed description of the BSc in Computer Science program."
+    },
+    {
+      "id": 14,
+      "name": "B.Sc",
+      "title": "Subject 14 Title",
+      "img": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1976&q=80",
+      "desc": "A Bachelor of Science (BSc) in Computer Science is an undergraduate degree program that focuses on the study of computer systems, software development algorithms, and various aspects of computing technology. Here's a detailed description of the BSc in Computer Science program."
+    },
+    {
+      "id": 15,
+      "name": "B.Sc",
+      "title": "Subject 15 Title",
+      "img": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1976&q=80",
+      "desc": "A Bachelor of Science (BSc) in Computer Science is an undergraduate degree program that focuses on the study of computer systems, software development algorithms, and various aspects of computing technology. Here's a detailed description of the BSc in Computer Science program."
+    },
+    {
+      "id": 16,
+      "name": "B.Sc",
+      "title": "Subject 16 Title",
+      "img": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1976&q=80",
+      "desc": "A Bachelor of Science (BSc) in Computer Science is an undergraduate degree program that focuses on the study of computer systems, software development algorithms, and various aspects of computing technology. Here's a detailed description of the BSc in Computer Science program."
+    },
+    {
+      "id": 17,
+      "name": "B.Sc",
+      "title": "Subject 17 Title",
+      "img": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1976&q=80",
+      "desc": "Description for Subject 17."
+    },
+    {
+      "id": 18,
+      "name": "B.Sc",
+      "title": "Subject 18 Title",
+      "img": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1976&q=80",
+      "desc": "Description for Subject 18."
+    },
+    {
+      "id": 19,
+      "name": "B.Sc",
+      "title": "Subject 19 Title",
+      "img": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1976&q=80",
+      "desc": "Description for Subject 19."
+    },
+    {
+      "id": 20,
+      "name": "B.Sc",
+      "title": "Subject 20 Title",
+      "img": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1976&q=80",
+      "desc": "Description for Subject 20."
+    },
+    {
+      "id": 21,
+      "name": "B.Sc",
+      "title": "Subject 21 Title",
+      "img": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1976&q=80",
+      "desc": "Description for Subject 21."
+    },
+    {
+      "id": 22,
+      "name": "B.Sc",
+      "title": "Subject 22 Title",
+      "img": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1976&q=80",
+      "desc": "Description for Subject 22."
+    }
+]
+  

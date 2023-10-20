@@ -1,0 +1,142 @@
+[
+    {
+      "image": "https://plus.unsplash.com/premium_photo-1681248156477-9d00c17bd594?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "name": "Naresh",
+      "subject": "MPC",
+      "subjectImg": "https://images.unsplash.com/photo-1509228468518-180dd4864904?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "MPC subjects offer Physics, Mathematics and Chemistry; whereas in BiPC subjects you will study Biology, Physics and Chemistry."
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1577896851231-70ef18881754?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "name": "Ajay bhyri",
+      "subject": "B.COM",
+      "subjectImg": "https://images.unsplash.com/photo-1515125520141-3e3b67bc0a88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+      "description": "MBA syllabus includes all key topics of business management such as Marketing, HR management, business planning, finance management, principles of management, business laws, communication skills"
+    },
+    {
+      "image": "https://plus.unsplash.com/premium_photo-1681248156477-9d00c17bd594?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "name": "Bhaskar p",
+      "subject": "Chemistry",
+      "subjectImg": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "The study of atoms, molecules, and their interactions is known as General Chemistry. Chemistry subject is the study of the processes and physical modifications that take place when substances are made or changed"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1577896851231-70ef18881754?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "name": "Kishore",
+      "subject": "Data Science",
+      "subjectImg": "https://plus.unsplash.com/premium_photo-1661270415926-37a9d24aff30?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "The major topics in the Data Science syllabus are Statistics, Coding, Business Intelligence, Data Structures, Mathematics, Machine Learning, and Algorithms, amongst others."
+    },
+    {
+      "image": "https://plus.unsplash.com/premium_photo-1681248156477-9d00c17bd594?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "name": "Madhukar pilla",
+      "subject": "MBA",
+      "subjectImg": "https://images.unsplash.com/photo-1529007196863-d07650a3f0ea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "The basic MCA course curriculum includes topics such as Network and Database Management, Electronics, Mobile Technologies, Financial Accounting, Mathematics, Statistics, Cloud Computing, Java Programming etc"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1577896851231-70ef18881754?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "name": "abc6",
+      "subject": "mpc6",
+      "subjectImg": "https://images.unsplash.com/photo-1619646286047-c6681c24a695?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "MPC subjects offer Physics, Mathematics and Chemistry; whereas in BiPC subjects you will study Biology, Physics and Chemistry."
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1577896851231-70ef18881754?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "name": "abc7",
+      "subject": "mpc7",
+      "subjectImg": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2073&q=80",
+      "description": "MPC subjects offer Physics, Mathematics and Chemistry; whereas in BiPC subjects you will study Biology, Physics and Chemistry."
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "name": "abc8",
+      "subject": "mpc8",
+      "subjectImg": "https://plus.unsplash.com/premium_photo-1671069848075-c9faefe4df18?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1973&q=80",
+      "description": "MPC subjects offer Physics, Mathematics and Chemistry; whereas in BiPC subjects you will study Biology, Physics and Chemistry."
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+      "name": "abc9",
+      "subject": "mpc9",
+      "subjectImg": "https://plus.unsplash.com/premium_photo-1671069848075-c9faefe4df18?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1973&q=80",
+      "description": "MPC subjects offer Physics, Mathematics and Chemistry; whereas in BiPC subjects you will study Biology, Physics and Chemistry."
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "name": "abc10",
+      "subject": "mpc10",
+      "subjectImg": "https://plus.unsplash.com/premium_photo-1671069848075-c9faefe4df18?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1973&q=80",
+      "description": "MPC subjects offer Physics, Mathematics and Chemistry; whereas in BiPC subjects you will study Biology, Physics and Chemistry."
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+      "name": "abc11",
+      "subject": "mpc11",
+      "subjectImg": "https://plus.unsplash.com/premium_photo-1671069848075-c9faefe4df18?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1973&q=80",
+      "description": "MPC subjects offer Physics, Mathematics and Chemistry; whereas in BiPC subjects you will study Biology, Physics and Chemistry."
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "name": "abc12",
+      "subject": "mpc12",
+      "subjectImg": "https://plus.unsplash.com/premium_photo-1682284353470-53c3a913bded?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "MPC subjects offer Physics, Mathematics and Chemistry; whereas in BiPC subjects you will study Biology, Physics and Chemistry."
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+      "name": "abc13",
+      "subject": "mpc13",
+      "subjectImg": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "MPC subjects offer Physics, Mathematics and Chemistry; whereas in BiPC subjects you will study Biology, Physics and Chemistry."
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1607990283143-e81e7a2c9349?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2041&q=80",
+      "name": "abc14",
+      "subject": "mpc14",
+      "subjectImg": "https://plus.unsplash.com/premium_photo-1663079426406-1b82fed16a79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1830&q=80",
+      "description": "MPC subjects offer Physics, Mathematics and Chemistry; whereas in BiPC subjects you will study Biology, Physics and Chemistry."
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+      "name": "abc15",
+      "subject": "mpc15",
+      "subjectImg": "https://plus.unsplash.com/premium_photo-1682284353470-53c3a913bded?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "MPC subjects offer Physics, Mathematics and Chemistry; whereas in BiPC subjects you will study Biology, Physics and Chemistry."
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "name": "abc16",
+      "subject": "mpc16",
+      "subjectImg": "https://plus.unsplash.com/premium_photo-1663079426406-1b82fed16a79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1830&q=80",
+      "description": "related to maths, physics, and chemistry16"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+      "name": "abc17",
+      "subject": "mpc17",
+      "subjectImg": "https://plus.unsplash.com/premium_photo-1682284353470-53c3a913bded?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "MPC subjects offer Physics, Mathematics and Chemistry; whereas in BiPC subjects you will study Biology, Physics and Chemistry."
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "name": "abc18",
+      "subject": "mpc18",
+      "subjectImg": "https://example.com/subjectImg18",
+      "description": "MPC subjects offer Physics, Mathematics and Chemistry; whereas in BiPC subjects you will study Biology, Physics and Chemistry."
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+      "name": "abc19",
+      "subject": "mpc19",
+      "subjectImg": "https://plus.unsplash.com/premium_photo-1663079426406-1b82fed16a79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1830&q=80",
+      "description": "MPC subjects offer Physics, Mathematics and Chemistry; whereas in BiPC subjects you will study Biology, Physics and Chemistry."
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "name": "abc20",
+      "subject": "mpc20",
+      "subjectImg": "https://plus.unsplash.com/premium_photo-1682284353470-53c3a913bded?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "MPC subjects offer Physics, Mathematics and Chemistry; whereas in BiPC subjects you will study Biology, Physics and Chemistry."
+    }
+  ]
